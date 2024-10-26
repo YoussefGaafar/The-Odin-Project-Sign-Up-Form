@@ -173,14 +173,14 @@ main .container .form-section form input[type=password]:invalid {
 /* End Form Section */
 
 
-/* Start Button Section */
-main .container .button-section {
+/* Start Footer Section */
+main .container .footer {
     padding: 20px 50px 50px;
     height: 30%;
     background-color: hsl(0, 0%, 90%);
 }
 
-main .container .button-section button[type=submit] {
+main .container .footer button {
     color: white;
     font-weight: bold;
     background-color: #596D48;
@@ -192,14 +192,14 @@ main .container .button-section button[type=submit] {
     box-shadow: 2px 3px 0px rgba(0, 0, 0, 0.1);
 }
 
-main .container .button-section p {
+main .container .footer p {
     color: black;
 }
 
-main .container .button-section a {
+main .container .footer a {
     text-decoration: none;
     color: #596D48;
     font-weight: bold;
 }
 
-/* End Button Section */
+/* End Footer Section */
